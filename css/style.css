@@ -198,7 +198,7 @@ h5 {
 .socialmedia {
   display: flex;
   justify-content: center;
-  gap: 2rem; /* Space between icons */
+  gap: 2rem;
   margin-top: 3rem;
 }
 
@@ -213,12 +213,12 @@ h5 {
   display: flex;
   align-items: center;
   justify-content: center;
-  box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.2); /* Increased intensity */
+  box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.2);
   transition: all 0.3s ease;
 }
 
 .socialmedia a:hover {
-  transform: translateY(-10px); /* Move up on hover */
+  transform: translateY(-10px);
   box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3);
 }
 
@@ -233,7 +233,7 @@ h5 {
 }
 
 .socialmedia a:hover:before {
-  opacity: 1; /* Highlight background on hover */
+  opacity: 1;
 }
 
 .socialmedia .icon i {
