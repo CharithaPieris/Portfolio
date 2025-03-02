@@ -788,6 +788,10 @@ h5 {
 //--//-->   COUNTER
 ======================================*/
 
+.numbercounter{
+  margin-left: 18rem;
+}
+
 .section-counter{
   margin-top: 5rem;
 }
